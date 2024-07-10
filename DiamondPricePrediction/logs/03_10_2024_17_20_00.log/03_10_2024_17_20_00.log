@@ -1,0 +1,8 @@
+[ 2024-03-10 17:20:02,090 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-03-10 17:20:02,131 ] 96 werkzeug - INFO -  * Debugger PIN: 109-437-049
+[ 2024-03-10 17:20:19,902 ] 96 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2024 17:20:19] "GET / HTTP/1.1" 200 -
+[ 2024-03-10 17:20:28,515 ] 96 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2024 17:20:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-03-10 17:20:32,804 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Python310\\Lib\\site-packages\\flask\\app.py', reloading
+[ 2024-03-10 17:20:32,808 ] 96 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2024 17:20:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-03-10 17:20:33,211 ] 96 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2024 17:20:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-03-10 17:20:33,257 ] 96 werkzeug - INFO - 127.0.0.1 - - [10/Mar/2024 17:20:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
