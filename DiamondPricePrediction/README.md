@@ -82,5 +82,5 @@ Start the server
 
 ## Authors
 
-- [@Anirudhrarao](https://github.com/Anirudhrarao)
+
 
